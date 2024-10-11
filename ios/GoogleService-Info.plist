@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>167885748169-hci1dmaek4m9k1o3p2u78qmk3261896b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.167885748169-hci1dmaek4m9k1o3p2u78qmk3261896b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>167885748169-2sre6q83340o9hcmemkhuv8q3bp63gvf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8A8_RT84kG8kWfi_XDQ3A95BQQZSNEoc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>167885748169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.imcapsule.rewards</string>
+	<key>PROJECT_ID</key>
+	<string>capsule-rewards</string>
+	<key>STORAGE_BUCKET</key>
+	<string>capsule-rewards.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:167885748169:ios:da856976f650e1ea905a18</string>
+</dict>
+</plist>

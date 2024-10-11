@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "167885748169",
+    "project_id": "capsule-rewards",
+    "storage_bucket": "capsule-rewards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167885748169:android:b2fb765730a59351905a18",
+        "android_client_info": {
+          "package_name": "com.imcapsule.rewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167885748169-2sre6q83340o9hcmemkhuv8q3bp63gvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imcapsule.rewards",
+            "certificate_hash": "fb18c951c3b4886956a9054ff62824976d2c7e0b"
+          }
+        },
+        {
+          "client_id": "167885748169-93qm27k1pn5d1iq6amuf0b63aoi1npih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKjyWuBysSg1rT34Yk21E0gKgXHo-Ci1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167885748169-2ffee0hf2eq6q3tn7vovnenf50pe8lat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167885748169-7ha3cocacfci68as3friaauip789t2gs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterGetxBoilerplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
